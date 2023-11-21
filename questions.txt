@@ -1,0 +1,6 @@
+Questions for Medava
+
+1. Why are generics used in Java? how do they enhance programming in Java?
+2. How does exception handling contribute to software development in Java?
+3. How does enum types in java compare to other languages that use OOP?
+4. How do we decide when to use inheritance versus composition in a complex system like this assignment?
